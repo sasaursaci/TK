@@ -1,0 +1,23 @@
+<plus_symbol '+'>
+<minus_symbol '-'>
+<equality_symbol '='>
+<error in sentence 0 in position 6, incorrect word k>
+<plus_symbol '+'>
+<plus_symbol '+'>
+<kmmm_word 'kmmm'>
+<d_o '23232323'>
+<dot_symbol '.'>
+<d_o '2'>
+<d_o '3'>
+<d_o '3'>
+<d_d '1'>
+<d_d '10'>
+<d_d '1'>
+<minus_symbol '-'>
+<error in sentence 2 in position 3, unknown symbol m>
+<d_d '10'>
+<d_o '2232'>
+<d_d '1'>
+<d_d '1'>
+<kmm_word 'kmm'>
+<kmm_word 'kmm'>
